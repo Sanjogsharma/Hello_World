@@ -7,7 +7,7 @@ Learning Python for Data Science
 Introduction and intro to data
 
 
-##Class 2
+##Class 2:
 
 * What is Git?
 * Git vs Github
@@ -26,3 +26,10 @@ pd.read_csv()
 [I'll probably use SEP for my project](plato.stanford.edu)
 
 
+* HTML markdowns are allowed in Git
+
+#### First excercise with Git:
+
+* clone repo to local computer
+* make changes locally (using command line)
+* upload changes 
