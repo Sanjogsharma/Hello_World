@@ -15,7 +15,7 @@ Introduction and intro to data
 
 
 
-# Sample python code to render as code block:
+### Sample python code to render as code block:
 
 ```python 
 import pandas as pd
