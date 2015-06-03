@@ -33,3 +33,7 @@ pd.read_csv()
 * clone repo to local computer
 * make changes locally (using command line)
 * upload changes 
+
+
+
+##Class 3:
