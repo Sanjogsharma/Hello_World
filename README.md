@@ -39,6 +39,12 @@ pd.read_csv()
 * git is color coded
 
 
+``` git
+
+git push orgin master
+
+```
+
 =======
 
 
