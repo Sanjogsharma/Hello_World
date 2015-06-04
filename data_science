@@ -43,6 +43,12 @@ pd.read_csv()
 
 #### Syncing Git
 * pull changes(pull and push are git commands) 
+``` git 
+git pull origin master
+and 
+
+git push orignin master
+```
 
 
 ##Class 3:
