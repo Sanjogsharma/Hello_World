@@ -47,7 +47,7 @@ pd.read_csv()
 git pull origin master
 and 
 
-git push orignin master
+git push origin master
 ```
 
 
