@@ -29,6 +29,8 @@ pd.read_csv()
 * HTML markdowns are allowed in Git
 
 #### First excercise with Git:
+* remote alias| 
+
 
 * clone repo to local computer
 * make changes locally (using command line)
