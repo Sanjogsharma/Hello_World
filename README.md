@@ -45,7 +45,8 @@ git pull origin master
 
 ```
 
-=======
+##### More command line:
+
 
 
 ##Class 3:
