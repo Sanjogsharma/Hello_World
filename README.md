@@ -33,8 +33,6 @@ pd.read_csv()
 * clone repo to local computer
 * make changes locally (using command line)
 * upload changes 
-
-
 * this line was edited using notepad
 * git is color coded
 
@@ -42,6 +40,8 @@ pd.read_csv()
 ``` git
 
 git push orgin master
+
+git pull origin master
 
 ```
 
