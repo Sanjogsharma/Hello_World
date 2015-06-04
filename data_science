@@ -26,6 +26,8 @@ pd.read_csv()
 [I'll probably use SEP for my project](plato.stanford.edu)
 
 
+
+
 * HTML markdowns are allowed in Git
 
 #### First excercise with Git:
@@ -39,7 +41,8 @@ pd.read_csv()
 * git is color coded
 
 
-=======
+#### Syncing Git
+* pull changes(pull and push are git commands) 
 
 
 ##Class 3:
