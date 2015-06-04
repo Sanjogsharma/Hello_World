@@ -30,8 +30,6 @@ pd.read_csv()
 
 #### First excercise with Git:
 * remote alias| 
-
-
 * clone repo to local computer
 * make changes locally (using command line)
 * upload changes 
