@@ -1,0 +1,13 @@
+1: each order_id is an order. Each order id has an order(min value of order is one)
+
+there are 1834 orders
+
+there are 4623 lines
+
+chicken burrito is more popular, without counting the times where they were ordered twice
+
+
+
+2: ls* *.?sv
+
+3: grep -ir 'dictionary' .
