@@ -1,0 +1,54 @@
+let country = "United States of America"
+let state = "Maryland"
+let city = "Silver Spring"
+let street = "Ivy Drive"
+let buildingNumber = 110
+
+
+let address = country + ", " + state + ", " + city //string and number cannot be concatanaeted
+
+// String Interpolation
+
+let interpolatedAddress = "\(country), \(state), \(city)"
+let interpolatedStreetAddress = "\(buildingNumber) \(street)"
+
+
+/*
+ _______
+ integers
+ _______
+ */
+
+let favoriteProgrammingLanguage = "Swift" //implicit type
+let year = 2014
+
+/*
+_______
+floating point numbers
+_______
+ */
+
+var version = 3.01 // type inference allows compiler to infer the type
+
+/*
+ _______
+ multi line comment
+ boolean
+ _______
+ */
+
+let isAwesome = true
+
+/* type saftey
+ 
+ */
+
+let bestPlayer: String = "LeBron James"
+let numberCounter: Double = 12
+let yearOfRetirement: Int = 2003
+let hallOfFame: Bool = true
+
+//explicit types helps 
+
+
+
