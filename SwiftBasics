@@ -51,4 +51,22 @@ let hallOfFame: Bool = true
 //explicit types helps 
 
 
+var todo: [String] = ["Finsih Collections Code", "Buy Groceries", "Respond to emails", "Pick up dry cleaning", "Book books online", "Mow the Lawn"]
+
+
+for task in todo {
+  print(task)
+    }
+//new operator: ranges
+// a..b upper and lower bounds (close range operator)
+
+1...5
+
+1..<5
+
+for number in 1...100 {
+    print("\(number) the number is \(number*3)")
+}
+
+//while loop 
 
