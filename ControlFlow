@@ -1,0 +1,25 @@
+let airportCodes = ["LGA", "LHR", "CDG", "HKG", "DXB", "LGW", "JFK", "ORY"]
+
+
+
+for airportCode in airportCodes {
+    switch airportCode {
+    case "LGA", "JFK": print("New York")
+    case "LHR", "LGW": print("London")
+    case "CDG", "ORY": print("Paris")
+    case "HKG": print("Hong Kong")
+    default: print("I don't know which city that airport is in!")
+    }
+}
+
+import GameKit
+
+let randomTemprature = GKRandomSource.sharedRandom().nextInt(upperBound: 150)
+
+switch randomTemprature {
+case 0..<32: print("This is extremely cold")
+case 32..<45: print("It's really cold, you need a jacket")
+case 45..<70: print ("light sweater weather")
+case 70...100: print ("tShirt Weather")
+default: print("don't even bother to go out")
+}
